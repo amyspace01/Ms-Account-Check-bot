@@ -49,7 +49,7 @@ ms-email-checker/
 1️⃣ **Clone the repository**
 
 ```
-git clone https://github.com/YOUR_USERNAME/ms-email-checker.git
+git clone https://github.com/amyspace01/Ms-Account-Check-bot.git
 cd ms-email-checker
 ```
 ---
